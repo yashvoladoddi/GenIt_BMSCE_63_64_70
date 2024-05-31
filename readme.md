@@ -13,7 +13,7 @@ GenIt has simplified the installation process.
 Minimal GPU memory requirement is 4GB (Nvidia).
 
 To run this application:-
-1) Download [this link]([https://github.com/lllyasviel/Fooocus/releases/download/release/Fooocus_win64_2-1-831.7z])
+1) Download [this link](https://github.com/lllyasviel/Fooocus/releases/download/release/Fooocus_win64_2-1-831.7z)
 2) Click on 'run.bat'
 3) Wait for a while before the batch file boots up
 4) Then the models are downloaded from huggingface
